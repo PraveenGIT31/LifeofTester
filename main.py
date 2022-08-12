@@ -1,5 +1,1 @@
-print("hello")
-
-print("pk")
-
-print("fire")
+print("once upon a time")
